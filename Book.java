@@ -6,7 +6,7 @@
  * @author Emaan Jaffer
  * @version 09.10.2024
  */
-class Book
+public class Book
 {
     // The fields.
     private String author;
