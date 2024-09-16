@@ -11,6 +11,7 @@ class Book
     // The fields.
     private String author;
     private String title;
+    private int pages;
 
     /**
      * Set the author and title fields when this object
